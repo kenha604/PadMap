@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "bindings": {
+    "lsx": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "axis",
+      "index": 0,
+      "rest": -0.008392333984375,
+      "peak": 1.0,
+      "deadzone": 0.0
+    },
+    "a": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 6
+    },
+    "b": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 5
+    },
+    "x": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 8
+    },
+    "y": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 9
+    },
+    "rt": {
+      "dev": "Fanatec 183B (winmm)",
+      "type": "axis",
+      "index": 0,
+      "rest": -1.5259021896696368e-05,
+      "peak": -1.0,
+      "invert": true
+    },
+    "lt": {
+      "dev": "Fanatec 183B (winmm)",
+      "type": "axis",
+      "index": 2,
+      "rest": -1.0,
+      "peak": 1.0
+    },
+    "start": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 4
+    },
+    "back": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 3
+    },
+    "dup": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 21
+    },
+    "ddown": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 19
+    },
+    "dleft": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 16
+    },
+    "dright": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 22
+    },
+    "lb": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 2
+    },
+    "rb": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 7
+    },
+    "l3": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 17
+    },
+    "r3": {
+      "dev": "SIMAGIC Alpha Series Wheelbase",
+      "type": "button",
+      "index": 24
+    }
+  }
+}

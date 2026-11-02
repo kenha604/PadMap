@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "bindings": {
+    "lsx": {
+      "type": "diff",
+      "left": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "axis",
+        "index": 1,
+        "rest": 0.0,
+        "peak": -1.0
+      },
+      "right": {
+        "dev": "TCA Q-Eng 1&2",
+        "type": "axis",
+        "index": 1,
+        "rest": 0.0,
+        "peak": -1.0
+      }
+    }
+  }
+}

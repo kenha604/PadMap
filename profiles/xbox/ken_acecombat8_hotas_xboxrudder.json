@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "bindings": {
+    "lt": {
+      "dev": "VKBSim T-Rudder",
+      "type": "axis",
+      "index": 0,
+      "rest": 0.0,
+      "peak": -1.0,
+      "deadzone": 0.06
+    },
+    "rt": {
+      "dev": "VKBSim T-Rudder",
+      "type": "axis",
+      "index": 0,
+      "rest": 0.0,
+      "peak": 1.0,
+      "deadzone": 0.06
+    }
+  }
+}

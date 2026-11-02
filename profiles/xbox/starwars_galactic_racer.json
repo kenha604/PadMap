@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "bindings": {
+    "lsx": {
+      "type": "diff",
+      "left": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "axis",
+        "index": 1,
+        "rest": 0.0,
+        "peak": -1.0
+      },
+      "right": {
+        "dev": "TCA Q-Eng 1&2",
+        "type": "axis",
+        "index": 1,
+        "rest": 0.0,
+        "peak": -1.0
+      }
+    },
+    "rt": {
+      "dev": "VKBSim T-Rudder",
+      "type": "axis",
+      "index": 0,
+      "rest": 0.0,
+      "peak": -1.0
+    },
+    "lt": {
+      "dev": "VKBSim T-Rudder",
+      "type": "axis",
+      "index": 0,
+      "rest": 0.0,
+      "peak": 1.0
+    },
+    "r3": {
+      "dev": "TCA Q-Eng 1&2",
+      "type": "button",
+      "index": 1
+    },
+    "a": {
+      "dev": "TCA Q-Eng 1&2",
+      "type": "button",
+      "index": 0
+    },
+    "lb": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 0
+    },
+    "dup": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 15
+    },
+    "dleft": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 18
+    },
+    "ddown": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 17
+    },
+    "dright": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 16
+    },
+    "x": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 21
+    },
+    "b": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 2
+    },
+    "rb": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 10
+    },
+    "rsx": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "axis",
+      "index": 3,
+      "rest": 0.0,
+      "peak": 1.0,
+      "deadzone": 0.08
+    },
+    "rsy": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "axis",
+      "index": 4,
+      "rest": 0.0,
+      "peak": 1.0,
+      "deadzone": 0.08
+    }
+  }
+}

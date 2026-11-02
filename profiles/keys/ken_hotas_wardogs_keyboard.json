@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "keys": [
+    {
+      "src": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "button",
+        "index": 3
+      },
+      "keys": [
+        {
+          "vk": 164,
+          "scan": 56,
+          "ext": false,
+          "name": "Alt"
+        }
+      ]
+    },
+    {
+      "src": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "button",
+        "index": 18
+      },
+      "keys": [
+        {
+          "vk": 27,
+          "scan": 1,
+          "ext": false,
+          "name": "Esc"
+        }
+      ]
+    },
+    {
+      "src": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "hat",
+        "index": 0,
+        "axis": 1,
+        "sign": 1
+      },
+      "keys": [
+        {
+          "vk": 38,
+          "scan": 72,
+          "ext": true,
+          "name": "Up"
+        }
+      ]
+    },
+    {
+      "src": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "hat",
+        "index": 0,
+        "axis": 1,
+        "sign": -1
+      },
+      "keys": [
+        {
+          "vk": 40,
+          "scan": 80,
+          "ext": true,
+          "name": "Down"
+        }
+      ]
+    },
+    {
+      "src": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "hat",
+        "index": 0,
+        "axis": 0,
+        "sign": -1
+      },
+      "keys": [
+        {
+          "vk": 37,
+          "scan": 75,
+          "ext": true,
+          "name": "Left"
+        }
+      ]
+    },
+    {
+      "src": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "hat",
+        "index": 0,
+        "axis": 0,
+        "sign": 1
+      },
+      "keys": [
+        {
+          "vk": 39,
+          "scan": 77,
+          "ext": true,
+          "name": "Right"
+        }
+      ]
+    },
+    {
+      "src": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "button",
+        "index": 8
+      },
+      "keys": [
+        {
+          "vk": 219,
+          "scan": 26,
+          "ext": false,
+          "name": "["
+        }
+      ]
+    },
+    {
+      "src": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "button",
+        "index": 6
+      },
+      "keys": [
+        {
+          "vk": 221,
+          "scan": 27,
+          "ext": false,
+          "name": "]"
+        }
+      ]
+    },
+    {
+      "src": {
+        "dev": "TCA Q-Eng 1&2",
+        "type": "button",
+        "index": 1
+      },
+      "keys": [
+        {
+          "vk": 110,
+          "scan": 83,
+          "ext": false,
+          "name": "Num Del"
+        }
+      ]
+    },
+    {
+      "src": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "button",
+        "index": 10
+      },
+      "keys": [
+        {
+          "vk": 67,
+          "scan": 46,
+          "ext": false,
+          "name": "C"
+        }
+      ]
+    },
+    {
+      "src": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "button",
+        "index": 19
+      },
+      "keys": [
+        {
+          "vk": 66,
+          "scan": 48,
+          "ext": false,
+          "name": "B"
+        }
+      ]
+    },
+    {
+      "src": {
+        "dev": "VKBsim Gladiator EVO L",
+        "type": "button",
+        "index": 7
+      },
+      "keys": [
+        {
+          "vk": 192,
+          "scan": 41,
+          "ext": false,
+          "name": "`"
+        }
+      ]
+    }
+  ]
+}

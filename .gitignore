@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.bak
+.venv/
+# per-machine autosaves of the last-used bindings
+profiles/*/autosave.json

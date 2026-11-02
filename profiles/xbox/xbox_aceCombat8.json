@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "bindings": {
+    "lsx": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "axis",
+      "index": 0,
+      "rest": 0.0,
+      "peak": 1.0,
+      "deadzone": 0.08
+    },
+    "lsy": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "axis",
+      "index": 1,
+      "rest": 0.02398681640625,
+      "peak": 1.0,
+      "deadzone": 0.08
+    },
+    "lt": {
+      "dev": "VKBSim T-Rudder",
+      "type": "axis",
+      "index": 0,
+      "rest": 0.0,
+      "peak": 1.0
+    },
+    "rt": {
+      "dev": "VKBSim T-Rudder",
+      "type": "axis",
+      "index": 0,
+      "rest": 0.0,
+      "peak": -1.0
+    },
+    "a": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 0
+    },
+    "b": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 2
+    },
+    "r3": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 4
+    },
+    "l3": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 4
+    },
+    "lb": {
+      "dev": "TCA Q-Eng 1&2",
+      "type": "axis",
+      "index": 1,
+      "rest": 0.014190673828125,
+      "peak": -1.0
+    },
+    "rb": {
+      "dev": "TCA Q-Eng 1&2",
+      "type": "axis",
+      "index": 1,
+      "rest": 0.00439453125,
+      "peak": 1.0
+    },
+    "dup": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 5
+    },
+    "dleft": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 8
+    },
+    "dright": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 6
+    },
+    "ddown": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 7
+    },
+    "back": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 13
+    },
+    "start": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 11
+    },
+    "rsx": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "axis",
+      "index": 3,
+      "rest": 0.0,
+      "peak": 1.0,
+      "deadzone": 0.08
+    },
+    "rsy": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "axis",
+      "index": 4,
+      "rest": 0.0,
+      "peak": 1.0,
+      "deadzone": 0.08
+    }
+  }
+}

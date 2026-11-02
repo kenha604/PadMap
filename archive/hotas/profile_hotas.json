@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "bindings": {
+    "twist": {
+      "dev": "VKBSim T-Rudder",
+      "type": "axis",
+      "index": 0,
+      "rest": 0.0,
+      "peak": 1.0,
+      "deadzone": 0.0
+    },
+    "lever": {
+      "dev": "VKBSim T-Rudder",
+      "type": "axis",
+      "index": 0,
+      "rest": -0.00146484375,
+      "peak": -1.0,
+      "deadzone": 0.08
+    },
+    "sx": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "axis",
+      "index": 0,
+      "rest": 0.0,
+      "peak": 1.0
+    },
+    "sy": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "axis",
+      "index": 1,
+      "rest": 0.006378173828125,
+      "peak": 1.0,
+      "deadzone": 0.0
+    },
+    "thr": {
+      "dev": "TCA Q-Eng 1&2",
+      "type": "axis",
+      "index": 1,
+      "rest": -0.011993408203125,
+      "peak": -1.0,
+      "deadzone": 0.0
+    },
+    "msx": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "axis",
+      "index": 3,
+      "rest": 0.0,
+      "peak": 1.0,
+      "deadzone": 0.08
+    },
+    "msy": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "axis",
+      "index": 4,
+      "rest": 0.0,
+      "peak": 1.0,
+      "deadzone": 0.08
+    },
+    "hup": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 5
+    },
+    "hright": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 6
+    },
+    "hdown": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 7
+    },
+    "hleft": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 8
+    },
+    "b1": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 0
+    },
+    "b3": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 2
+    },
+    "b4": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 19
+    },
+    "b2": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 21
+    },
+    "b6": {
+      "dev": "TCA Q-Eng 1&2",
+      "type": "button",
+      "index": 6
+    },
+    "b10": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 10
+    },
+    "b9": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 4
+    },
+    "b7": {
+      "dev": "TCA Q-Eng 1&2",
+      "type": "button",
+      "index": 0
+    },
+    "b8": {
+      "dev": "TCA Q-Eng 1&2",
+      "type": "button",
+      "index": 1
+    },
+    "b5": {
+      "dev": "VKBsim Gladiator EVO L",
+      "type": "button",
+      "index": 12
+    }
+  }
+}
